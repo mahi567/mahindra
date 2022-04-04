@@ -1,1 +1,3 @@
 hi welcome to git code
+
+now you can use the commands
