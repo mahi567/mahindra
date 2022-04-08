@@ -1,6 +1,3 @@
 hi welcome to git code
 you can cahnge the code
 now you can use the commands
-Git commands
-$ git init
-$ git add . used all the files will be added
