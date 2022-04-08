@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class AddEmployee {
 
-	public void addEmployee()
+	public static void addEmployee()
 	{
 		
 		String url="jdbc:mysql://localhost:3307/user=root&password=root";
